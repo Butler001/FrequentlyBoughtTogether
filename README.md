@@ -4,9 +4,9 @@ FrequentlyBoughtTogether
 An implementation of frequently bought together items through the example of a book catalog.
 
 This project was exported directly from Visual Studio. 
-If you have Visual Studio installed, unzip the file and click the FBTProject.sln 
+If you have Visual Studio installed, unzip the file and click the CatalogProject.sln 
 
-The C++ and header files are located within the FBTProject folder.
+The C++ and header files are located within the CatalogProject folder.
 Within this folder are the text files "FBT.txt" and "iBookCatalog.txt". These are given purely for example purposes.
 
 
